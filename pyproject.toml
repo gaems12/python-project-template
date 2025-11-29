@@ -10,7 +10,7 @@ requires-python = ">=3.13"
 
 [project.optional-dependencies]
 dev = [
-    "mypy==1.15.*",
+    "mypy==1.19.*",
     "ruff==0.11.*",
     "pre-commit==4.2.*",
 ]
